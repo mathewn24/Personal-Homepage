@@ -6,6 +6,6 @@
                   </circle></svg>
                 </div>
                 <div class="flex-grow-1"> <!-- allow div to grow and take up all space -->
-                  <h5>chuckjee@cse.cuhk.edu.hk</h5>
+                  <h5>name@example.com</h5>
                   <p>This lab is so fun! Let's explore further with Bootstrap and JS fetch.</p>
                 </div>
